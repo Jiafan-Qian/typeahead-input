@@ -12,23 +12,20 @@ A small typeahead suggestion input for all American states and territories. The 
 * frontend: Vue.js
 * backend: Express.js + GraphQL
 
-## Project Setup
-```
-npm install
-```
-
-## Project Run
+## Project Setup and Run
 Use two terminal:
 
-* server: 
+* server:
 ```
 cd server
+npm install
 node server.js
 ```
 
 * Vue app:
 ```
 cd typeahead-search-demo
+npm install
 npm run serve
 ```
 Then navigate to http://localhost:8080/
