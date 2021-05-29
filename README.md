@@ -13,7 +13,7 @@ A small typeahead suggestion input for all American states and territories. The 
 * backend: Express.js + GraphQL
 
 ## Project Setup and Run
-Use two terminal:
+Use two terminals:
 
 * server:
 ```
