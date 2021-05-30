@@ -3,6 +3,9 @@
 ## Description
 A small typeahead suggestion input for all American states and territories. Get all the US States data from GraphQL server first, then find out the States containing the user input content by calling findSuggestions() function.
 
+other related same result projects:
+* https://github.com/Jiafan-Qian/typeahead-input-2
+
 ## Demo
 ![demo1](demo/demo1.png)
 ![demo2](demo/demo2.png)
