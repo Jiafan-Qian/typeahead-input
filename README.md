@@ -5,6 +5,7 @@ A small typeahead suggestion input for all American states and territories. Get 
 
 Other related same result projects:
 * https://github.com/Jiafan-Qian/typeahead-input-2
+* https://github.com/Jiafan-Qian/typeahead-input-3
 
 ## Demo
 ![demo1](demo/demo1.png)
